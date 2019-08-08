@@ -1,0 +1,14 @@
+* This is a summary of the git flow for Lambda School
+* Use this flow as a guide when working with projects on git hub
+
+ Create your own version of this repo - Fork (or simply clone the project to your computer depending on the scenerio)
+ Add your PM as a collaborator
+ Clone the repo
+ Create a branch git checkout -b 'firstName-lastName'
+ work on the project, add or modify files
+ Run your usual git commands for adding/commiting and pushing Be sure to push to your branch!
+ Create a Pull-Request to submit your work
+ Use your own student fork as the base (compare across forks, base-fork -> master).
+ Add your PM as a reviewer on the Pull-Request
+ PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+
